@@ -1,0 +1,124 @@
+{
+    "id": "foundry-all-in-one",
+    "title": "Foundry All-in-One",
+    "description": "An all-in-one module that includes a variety of quality of life improvements for Foundry VTT.",
+    "authors": [
+        {
+            "name": "Dungeons LAB",
+            "patreon": "https://www.patreon.com/DungeonsLAB/posts",
+            "discord": "https://discord.gg/GfyGMf4F"
+        },
+        {
+            "name": "Alexander Muryshkin"
+        }
+    ],
+    "version": "1.0.7",
+    "compatibility": {
+        "minimum": "11.302",
+        "verified": "12"
+    },
+    "bugs": "https://github.com/q-datum/foundry-all-in-one/issues",
+    "scripts": [
+        "./foundry-all-in-one.js"
+    ],
+    "relationships": {
+        "requires": [
+            {
+                "id": "midi-qol",
+                "type": "module"
+            },
+            {
+                "id": "theripper-premium-hub",
+                "type": "module"
+            },
+            {
+                "id": "smalltime",
+                "type": "module"
+            },
+            {
+                "id": "monks-enhanced-journal",
+                "type": "module"
+            },
+            {
+                "id": "monks-shops",
+                "type": "module"
+            },
+            {
+                "id": "simbuls-cover-calculator",
+                "type": "module"
+            },
+            {
+                "id": "lmrtfy",
+                "type": "module"
+            },
+            {
+                "id": "midi-qol",
+                "type": "module"
+            },
+            {
+                "id": "monks-active-tiles",
+                "type": "module"
+            },
+            {
+                "id": "dice-so-nice",
+                "type": "module"
+            },
+            {
+                "id": "dice-calculator",
+                "type": "module"
+            },
+            {
+                "id": "itemacro",
+                "type": "module"
+            },
+            {
+                "id": "item-piles",
+                "type": "module"
+            },
+            {
+                "id": "enhancedcombathud",
+                "type": "module"
+            },
+            {
+                "id": "enhancedcombathud-dnd5e",
+                "type": "module"
+            },
+            {
+                "id": "babonus",
+                "type": "module"
+            },
+            {
+                "id": "action-pack",
+                "type": "module"
+            },
+            {
+                "id": "ActiveAuras",
+                "type": "module"
+            },
+            {
+                "id": "ATL",
+                "type": "module"
+            }
+        ]
+    },
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "ru",
+            "name": "Russian",
+            "path": "lang/ru.json"
+        },
+        {
+            "lang": "de",
+            "name": "German",
+            "path": "lang/de.json"
+        }
+    ],
+    "url": "https://dungeons-lab-wiki.vercel.app/",
+    "manifest": "https://github.com/q-datum/foundry-all-in-one/releases/download/v.0.0.1/module.json",
+    "download": "https://github.com/q-datum/foundry-all-in-one/releases/download/v.0.0.1/build.zip"
+}
