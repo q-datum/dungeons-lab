@@ -119,6 +119,6 @@
         }
     ],
     "url": "https://dungeons-lab-wiki.vercel.app/",
-    "manifest": "https://github.com/q-datum/foundry-all-in-one/releases/download/v.0.0.1/module.json",
-    "download": "https://github.com/q-datum/foundry-all-in-one/releases/download/v.0.0.1/build.zip"
+    "manifest": "https://github.com/q-datum/dungeons-lab/releases/download/foundry-all-in-one-v0.1/module.json",
+    "download": "https://github.com/q-datum/dungeons-lab/releases/download/foundry-all-in-one-v0.1/build.zip"
 }

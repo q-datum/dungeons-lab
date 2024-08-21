@@ -1,0 +1,28 @@
+{
+  "foundry-all-in-one": {
+    "WelcomeDialog": {
+      "WindowTitle": "Welcome",
+      "Title": "Welcome to Foundry All-in-One!",
+      "Text": "Thank you for choosing our All-in-One plugin for Foundry VTT. By supporting us on Patreon, you help us continue developing innovative tools that make your virtual tabletop experience smoother and more immersive. Join us to gain exclusive access to our plugins and shape the future of gaming with your feedback. As we continue to develop new premium plugins to enhance your Foundry VTT experience, your support becomes vital. If you’re excited about advancing your gameplay and want to help shape the future of our projects, consider subscribing to our Patreon. Your contributions make a significant impact!",
+      "ApplySettings": "Apply recommended plugins settings",
+      "Patreon": "Support us on Patreon"
+    },
+    "SettingsMenu": {
+      "AlwaysShowWelcomeDialog": {
+        "Name": "Always Show Welcome Dialog",
+        "Hint": "If enabled, the welcome dialog will be shown every time you start Foundry VTT."
+      },
+      "UpdatePluginSettings": {
+        "Name": "Apply Recommended Plugins Settings",
+        "Hint": "When pressed, the recommended settings for all installed plugins will be applied.",
+        "Button": "Apply settings"
+      }
+    },
+    "Notifications": {
+      "UpdatePluginSettings": {
+        "Success": "Plugin settings have been updated successfully.",
+        "Error": "An error occurred while updating plugin settings."
+      }
+    }
+  }
+}
