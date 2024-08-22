@@ -7,7 +7,7 @@
 
 
 1. **Action Pack**
-	Description: This plugin provides a set of ready-made actions and macros that simplify and speed up gameplay. It includes frequently used actions such as attacks, spells and skills, allowing players to perform them quickly and easily without having to create macros manually. /
+	Description: This plugin provides a set of ready-made actions and macros that simplify and speed up gameplay. It includes frequently used actions such as attacks, spells and skills, allowing players to perform them quickly and easily without having to create macros manually. \
 	Link: https://foundryvtt.com/packages/action-pack/
 	License: MIT License
 	Project Source: https://github.com/teroparvinen/foundry-action-pack
