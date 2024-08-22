@@ -39,7 +39,7 @@
 
 12. Let Me Roll That For You!
 	Description: Automates dice rolls for players and characters. This simplifies the process of performing actions that require dice rolls and helps avoid mistakes.
-	Link: https://foundryvtt.com/packages/lmrtfy/26. Midi QOL
+	Link: https://foundryvtt.com/packages/lmrtfy
 
 13. Midi QOL
 	Description: Quality of life improvements for the DnD 5e system, automating many aspects. Includes automatic application of effects, combat management, and improved interfaces for players and presenters.
