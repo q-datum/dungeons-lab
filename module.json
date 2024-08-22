@@ -1,25 +1,25 @@
 {
-    "id": "foundry-all-in-one",
-    "title": "Foundry All-in-One",
+    "id": "dungeons-lab-all-in-one",
+    "title": "Dungeons LAB All-in-One",
     "description": "An all-in-one module that includes a variety of quality of life improvements for Foundry VTT.",
     "authors": [
         {
             "name": "Dungeons LAB",
             "patreon": "https://www.patreon.com/DungeonsLAB/posts",
-            "discord": "https://discord.gg/GfyGMf4F"
+            "url": "https://www.patreon.com/DungeonsLAB/posts?utm_source=waitlist"
         },
         {
             "name": "Alexander Muryshkin"
         }
     ],
-    "version": "1.0.7",
+    "version": "1.0.8",
     "compatibility": {
         "minimum": "11.302",
         "verified": "12"
     },
     "bugs": "https://github.com/q-datum/foundry-all-in-one/issues",
     "scripts": [
-        "./foundry-all-in-one.js"
+        "./dungeons-lab-all-in-one.js"
     ],
     "relationships": {
         "requires": [
@@ -60,10 +60,6 @@
                 "type": "module"
             },
             {
-                "id": "dice-so-nice",
-                "type": "module"
-            },
-            {
                 "id": "dice-calculator",
                 "type": "module"
             },
@@ -81,10 +77,6 @@
             },
             {
                 "id": "enhancedcombathud-dnd5e",
-                "type": "module"
-            },
-            {
-                "id": "babonus",
                 "type": "module"
             },
             {
@@ -119,6 +111,6 @@
         }
     ],
     "url": "https://dungeons-lab-wiki.vercel.app/",
-    "manifest": "https://github.com/q-datum/dungeons-lab/releases/download/foundry-all-in-one-v0.1/module.json",
-    "download": "https://github.com/q-datum/dungeons-lab/releases/download/foundry-all-in-one-v0.1/build.zip"
+    "manifest": "https://github.com/q-datum/dungeons-lab/releases/download/all-in-one-latest/module.json",
+    "download": "https://github.com/q-datum/dungeons-lab/releases/download/all-in-one-latest/build.zip"
 }

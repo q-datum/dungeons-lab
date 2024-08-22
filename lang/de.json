@@ -1,11 +1,13 @@
 {
-  "foundry-all-in-one": {
+  "dungeons-lab-all-in-one": {
     "WelcomeDialog": {
       "WindowTitle": "Willkommen",
-      "Title": "Willkommen bei Foundry All-in-One!",
+      "Title": "Willkommen bei Dungeons LAB All-in-One!",
       "Text": "Vielen Dank, dass Sie sich für unser All-in-One-Plugin für Foundry VTT entschieden haben. Indem Sie uns auf Patreon unterstützen, helfen Sie uns dabei, innovative Tools zu entwickeln, die Ihr virtuelles Tabletop-Erlebnis reibungsloser und immersiver machen. Schließen Sie sich uns an, um exklusiven Zugriff auf unsere Plugins zu erhalten und die Zukunft des Spielens mit Ihrem Feedback zu gestalten. Da wir weiterhin neue Premium-Plugins entwickeln, um Ihr Foundry VTT-Erlebnis zu verbessern, wird Ihre Unterstützung immer wichtiger. Wenn Sie sich darauf freuen, Ihr Gameplay voranzutreiben und die Zukunft unserer Projekte mitgestalten möchten, erwägen Sie, sich auf Patreon zu abonnieren. Ihre Beiträge haben einen erheblichen Einfluss!",
       "ApplySettings": "Empfohlene Plugin-Einstellungen anwenden",
-      "Patreon": "Unterstützen Sie uns auf Patreon"
+      "Patreon": "Unterstützen Sie uns auf Patreon",
+      "Disclaimer": "Haftungsausschluss: ",
+      "DisclaimerText": "Wenn Sie Plugins herunterladen und installieren, die unser Plugin verwenden, stimmen Sie allen Lizenzen dieser Plugins zu."
     },
     "SettingsMenu": {
       "AlwaysShowWelcomeDialog": {
