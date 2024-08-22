@@ -5,7 +5,7 @@
 	Link: https://foundryvtt.com/packages/action-pack/
 1. **Active Auras**
 	Description: The Active Auras plugin controls character auras, automatically applying effects on anyone within range of the aura. This is useful for spells and abilities that affect surrounding characters, making it easier to control these effects and improving the visualization of their effects.
-	Link: https://github.com/kandashi/Active-Auras
+	Link: https://foundryvtt.com/packages/ActiveAuras
 1. **Active Token Effects**
 	Description: This plugin automatically applies and tracks effects on character tokens based on their state and environment. This can include states such as stuns, slowdowns or buffs, making state management easier and more automated.
 	Link: https://foundryvtt.com/packages/ATL
