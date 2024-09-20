@@ -10,9 +10,12 @@
         },
         {
             "name": "Alexander Muryshkin"
+        },
+        {
+            "name": "Mikhail Nalutka"
         }
     ],
-    "version": "1.0.8",
+    "version": "1.0.10",
     "compatibility": {
         "minimum": "11.302",
         "verified": "12"
@@ -44,15 +47,15 @@
                 "type": "module"
             },
             {
+                "id": "monks-tokenbar",
+                "type": "module"
+            },
+            {
                 "id": "simbuls-cover-calculator",
                 "type": "module"
             },
             {
                 "id": "lmrtfy",
-                "type": "module"
-            },
-            {
-                "id": "midi-qol",
                 "type": "module"
             },
             {
@@ -69,14 +72,6 @@
             },
             {
                 "id": "item-piles",
-                "type": "module"
-            },
-            {
-                "id": "enhancedcombathud",
-                "type": "module"
-            },
-            {
-                "id": "enhancedcombathud-dnd5e",
                 "type": "module"
             },
             {
