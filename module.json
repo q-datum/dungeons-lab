@@ -1,111 +1,31 @@
 {
-    "id": "dungeons-lab-all-in-one",
-    "title": "Dungeons LAB All-in-One",
-    "description": "An all-in-one module that includes a variety of quality of life improvements for Foundry VTT.",
-    "authors": [
-        {
-            "name": "Dungeons LAB",
-            "patreon": "https://www.patreon.com/DungeonsLAB/posts",
-            "url": "https://www.patreon.com/DungeonsLAB/posts?utm_source=waitlist"
-        },
-        {
-            "name": "Alexander Muryshkin"
-        },
-        {
-            "name": "Mikhail Nalutka"
-        }
-    ],
-    "version": "1.0.10",
+    "id": "dungeons-lab-day-night-playlist",
+    "title": "Dungeons LAB Day Night Playlist",
+    "version": "1.0.0",
     "compatibility": {
-        "minimum": "11.302",
+        "minimum": "11",
         "verified": "12"
     },
-    "bugs": "https://github.com/q-datum/foundry-all-in-one/issues",
     "scripts": [
-        "./dungeons-lab-all-in-one.js"
+        "day-night-playlist.js"
     ],
     "relationships": {
         "requires": [
             {
-                "id": "midi-qol",
-                "type": "module"
-            },
-            {
-                "id": "theripper-premium-hub",
-                "type": "module"
-            },
-            {
                 "id": "smalltime",
-                "type": "module"
-            },
-            {
-                "id": "monks-enhanced-journal",
-                "type": "module"
-            },
-            {
-                "id": "monks-shops",
-                "type": "module"
-            },
-            {
-                "id": "monks-tokenbar",
-                "type": "module"
-            },
-            {
-                "id": "simbuls-cover-calculator",
-                "type": "module"
-            },
-            {
-                "id": "lmrtfy",
-                "type": "module"
-            },
-            {
-                "id": "monks-active-tiles",
-                "type": "module"
-            },
-            {
-                "id": "dice-calculator",
-                "type": "module"
-            },
-            {
-                "id": "itemacro",
-                "type": "module"
-            },
-            {
-                "id": "item-piles",
-                "type": "module"
-            },
-            {
-                "id": "action-pack",
-                "type": "module"
-            },
-            {
-                "id": "ActiveAuras",
-                "type": "module"
-            },
-            {
-                "id": "ATL",
                 "type": "module"
             }
         ]
     },
-    "languages": [
+    "authors": [
         {
-            "lang": "en",
-            "name": "English",
-            "path": "lang/en.json"
-        },
-        {
-            "lang": "ru",
-            "name": "Russian",
-            "path": "lang/ru.json"
-        },
-        {
-            "lang": "de",
-            "name": "German",
-            "path": "lang/de.json"
+            "name": "Dungeons LAB",
+            "url": "https://www.patreon.com/Dungeons_LAB",
+            "flags": {}
         }
     ],
-    "url": "https://dungeons-lab-wiki.vercel.app/",
-    "manifest": "https://github.com/q-datum/dungeons-lab/releases/download/all-in-one-latest/module.json",
-    "download": "https://github.com/q-datum/dungeons-lab/releases/download/all-in-one-latest/build.zip"
+    "url": "https://www.patreon.com/Dungeons_LAB",
+
+    "description": ""
+
 }
